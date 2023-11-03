@@ -1,3 +1,7 @@
+.container {
+  justify-content: center;
+}
+
 .homeSlide h1 {
   font-size: 45px;
   line-height: 55px;
